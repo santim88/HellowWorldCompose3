@@ -9,6 +9,7 @@ class EventRepository {
               Event(
                   id = 1,
                   name = "Evento A",
+                  description = "",
                   place = "Minas",
                   date = "17/09/2000",
                   hour = "5:30"
@@ -16,6 +17,7 @@ class EventRepository {
               Event(
                   id = 2,
                   name = "Evento A",
+                  description = "",
                   place = "Doe",
                   date = "17/09/2000",
                   hour = "5:30"
@@ -23,6 +25,7 @@ class EventRepository {
               Event(
                   id = 3,
                   name = "Evento A",
+                  description = "",
                   place = "Doe",
                   date = "17/09/2000",
                   hour = "5:30"
@@ -30,6 +33,7 @@ class EventRepository {
               Event(
                   id = 4,
                   name = "Evento A",
+                  description = "",
                   place = "Doe",
                   date = "17/09/2000",
                   hour = "5:30"
